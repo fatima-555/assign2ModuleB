@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+label, select, button {
+    margin: 10px 0;
+    display: block;
+}
+#output {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
